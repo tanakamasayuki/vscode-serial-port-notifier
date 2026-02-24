@@ -11,6 +11,9 @@ Serial Port Notifier is a Visual Studio Code extension that notifies you when se
 - Configurable polling interval.
 - Built-in localization (English, Japanese, Chinese, French, German).
 
+## Screenshot
+![Serial Port Notifier screenshot](images/image.png)
+
 ## Requirements
 - VS Code 1.90 or later.
 
