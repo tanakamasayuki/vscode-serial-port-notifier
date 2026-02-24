@@ -1,0 +1,8 @@
+{
+  "Serial Port Notifier": "Serial Port Notifier",
+  "Failed to list serial ports: {0}": "Serielle Ports konnten nicht aufgelistet werden: {0}",
+  "Detected change. Added: {0}, Removed: {1}": "Änderung erkannt. Hinzugefügt: {0}, Entfernt: {1}",
+  "Serial ports added: {0}": "Serielle Ports hinzugefügt: {0}",
+  "Serial ports removed: {0}": "Serielle Ports entfernt: {0}",
+  "Serial Port Notifier is disabled.": "Serial Port Notifier ist deaktiviert."
+}

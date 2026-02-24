@@ -1,0 +1,9 @@
+{
+  "extension.displayName": "Serial Port Notifier",
+  "extension.description": "Vous avertit lorsque des ports série sont ajoutés ou supprimés.",
+  "config.title": "Serial Port Notifier",
+  "config.enabled": "Activer la surveillance des ports série.",
+  "config.pollIntervalMs": "Intervalle d'interrogation en millisecondes.",
+  "config.notifyOnAdd": "Afficher une notification lorsqu'un port série est ajouté.",
+  "config.notifyOnRemove": "Afficher une notification lorsqu'un port série est supprimé."
+}

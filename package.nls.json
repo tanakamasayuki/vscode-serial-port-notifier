@@ -1,0 +1,9 @@
+{
+  "extension.displayName": "Serial Port Notifier",
+  "extension.description": "Notifies you when serial ports are added or removed.",
+  "config.title": "Serial Port Notifier",
+  "config.enabled": "Enable serial port monitoring.",
+  "config.pollIntervalMs": "Polling interval in milliseconds.",
+  "config.notifyOnAdd": "Show a notification when a serial port is added.",
+  "config.notifyOnRemove": "Show a notification when a serial port is removed."
+}

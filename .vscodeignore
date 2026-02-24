@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.DS_Store
+.git/**
+.gitignore
+npm-debug.log
+package-lock.json
+*.vsix
+*.txt
+images/*.svg

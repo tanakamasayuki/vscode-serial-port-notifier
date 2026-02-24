@@ -1,0 +1,54 @@
+{
+  "name": "serial-port-notifier",
+  "displayName": "%extension.displayName%",
+  "description": "%extension.description%",
+  "version": "0.0.1",
+  "publisher": "tanakamasayuki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanakamasayuki/vscode-serial-port-notifier"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "icon": "images/icon.png",
+  "main": "./extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "contributes": {
+    "configuration": {
+      "title": "%config.title%",
+      "properties": {
+        "serialPortNotifier.enabled": {
+          "type": "boolean",
+          "default": true,
+          "description": "%config.enabled%"
+        },
+        "serialPortNotifier.pollIntervalMs": {
+          "type": "number",
+          "default": 2000,
+          "minimum": 500,
+          "description": "%config.pollIntervalMs%"
+        },
+        "serialPortNotifier.notifyOnAdd": {
+          "type": "boolean",
+          "default": true,
+          "description": "%config.notifyOnAdd%"
+        },
+        "serialPortNotifier.notifyOnRemove": {
+          "type": "boolean",
+          "default": true,
+          "description": "%config.notifyOnRemove%"
+        }
+      }
+    }
+  },
+  "l10n": "./l10n",
+  "dependencies": {
+    "serialport": "^13.0.0"
+  }
+}

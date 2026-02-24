@@ -1,0 +1,9 @@
+{
+  "extension.displayName": "Serial Port Notifier",
+  "extension.description": "シリアルポートの追加・削除を通知します。",
+  "config.title": "Serial Port Notifier",
+  "config.enabled": "シリアルポート監視を有効にします。",
+  "config.pollIntervalMs": "ポーリング間隔（ミリ秒）。",
+  "config.notifyOnAdd": "シリアルポートが追加されたときに通知します。",
+  "config.notifyOnRemove": "シリアルポートが削除されたときに通知します。"
+}

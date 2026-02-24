@@ -1,0 +1,8 @@
+{
+  "Serial Port Notifier": "Serial Port Notifier",
+  "Failed to list serial ports: {0}": "シリアルポートの一覧取得に失敗しました: {0}",
+  "Detected change. Added: {0}, Removed: {1}": "変更を検出しました。追加: {0}、削除: {1}",
+  "Serial ports added: {0}": "シリアルポートが追加されました: {0}",
+  "Serial ports removed: {0}": "シリアルポートが削除されました: {0}",
+  "Serial Port Notifier is disabled.": "Serial Port Notifier は無効です。"
+}

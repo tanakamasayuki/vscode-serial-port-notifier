@@ -1,0 +1,9 @@
+{
+  "extension.displayName": "Serial Port Notifier",
+  "extension.description": "Benachrichtigt, wenn serielle Ports hinzugefügt oder entfernt werden.",
+  "config.title": "Serial Port Notifier",
+  "config.enabled": "Überwachung serieller Ports aktivieren.",
+  "config.pollIntervalMs": "Abfrageintervall in Millisekunden.",
+  "config.notifyOnAdd": "Benachrichtigung anzeigen, wenn ein serieller Port hinzugefügt wird.",
+  "config.notifyOnRemove": "Benachrichtigung anzeigen, wenn ein serieller Port entfernt wird."
+}

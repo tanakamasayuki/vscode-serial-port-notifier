@@ -1,0 +1,9 @@
+{
+  "extension.displayName": "Serial Port Notifier",
+  "extension.description": "在串口添加或移除时发出通知。",
+  "config.title": "Serial Port Notifier",
+  "config.enabled": "启用串口监视。",
+  "config.pollIntervalMs": "轮询间隔（毫秒）。",
+  "config.notifyOnAdd": "串口添加时显示通知。",
+  "config.notifyOnRemove": "串口移除时显示通知。"
+}
